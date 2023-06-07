@@ -1,13 +1,11 @@
-<img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47e5vqyah4yvtriuw63hp7r3j3x27cnawcjj996oai&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="5000px" height="200px" />
-
-<img src="https://media2.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=ecf05e479gngfdzhwb7ui85sf272nqwwfsxk8jewv3k5tehy&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="5000px" height="200px" />
+<img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47e5vqyah4yvtriuw63hp7r3j3x27cnawcjj996oai&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="5000px" height="300px" />
 
 <h1 align="center">Hi 👋, I'm Mitko Barandovski</h1>
 <h3 align="center">A passionate Data technician student with specialization in infrastructure.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif")
 
 
-
+     
 
 - 🔭 I’m currently working on **Amazon Web scraper**
 
